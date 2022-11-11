@@ -1,12 +1,20 @@
 {
   "name": "nested-toc-json-generator",
   "version": "0.1.0",
-  "description": "",
+  "description": "This is currently tested against Hygraph data, but should work for most data if you follow the following structure:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Bryan Robinson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brob/nested-toc-json-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brob/nested-toc-json-generator/issues"
+  },
+  "homepage": "https://github.com/brob/nested-toc-json-generator#readme"
 }
