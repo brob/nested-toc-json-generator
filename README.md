@@ -18,7 +18,7 @@ This is currently tested against Hygraph data, but should work for most data if 
 ```
 Given that structure, it will return a nested structure for frontend loops and nested lists.
 
-```json 
+```js
 [
     {
         "type": "heading-one",
