@@ -28,8 +28,8 @@ Given that structure, it will return a nested structure for frontend loops and n
             {
                 "type": "heading-two",
                 "id": "some-other-id-here",
-                "children": [ [Object] ],
-                "tocChildren": [],
+                "tocChildren": [/*additional nests */],
+                // ...additionalData
             }
         ]
     }
