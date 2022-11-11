@@ -2,7 +2,7 @@
 
 This is currently tested against Hygraph data, but should work for most data if you follow the following structure:
 
-```json
+```js
 [
   {
     "type": "heading-one", // or h1
